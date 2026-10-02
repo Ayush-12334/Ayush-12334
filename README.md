@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayush Umakant Ghadai
+\# 👋 Hi, I'm Ayush Umakant Ghadai
 
 Currently pursuing a **Bachelor's in Electronics and Computer Science**.  
 I am a **Data Science, Machine Learning, Deep Learning, Generative AI, and Data Engineering practitioner** passionate about building data-driven solutions, intelligent AI applications, and scalable data pipelines.
@@ -18,6 +18,7 @@ I am a **Data Science, Machine Learning, Deep Learning, Generative AI, and Data 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00A8E8?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🧠 Generative AI
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -34,15 +35,16 @@ I am a **Data Science, Machine Learning, Deep Learning, Generative AI, and Data 
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-0052CC?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-FF9900?style=for-the-badge&logo=apache&logoColor=white)
 
-### 📊 Business Intelligence
+### 📊 Business Intelligence & Web Apps
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 ## 📊 Areas of Interest
 
-- Data Analysis & Business Intelligence Visualization
-- Machine Learning, Deep Learning & Predictive Analytics
+- Data Analysis, Business Intelligence & Web Dashboards
+- Machine Learning, Deep Learning, NLP & Predictive Analytics
 - Generative AI Development & RAG Architecture
 - SQL & NoSQL Database Optimization
 - Designing Robust Data & ETL Pipelines
